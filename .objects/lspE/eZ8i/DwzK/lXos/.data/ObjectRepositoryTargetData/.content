@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3rh1o5feCEGT0e0-zq27_Q" Reference="SublX5Ph0Eu6z5eLK9nhZw/lXos8-GvVEGS1z90cI5qdQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="9f049d06-4d80-47e9-8888-a069496696cc" CvElementArea="330, 577, 258, 63" CvTextArea="415, 597, 116, 20" CvTextArgument="Work Items" CvType="Button" DesignTimeRectangle="334, 580, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='*Work Items*' parentid='dashmenu' tag='BUTTON' /&gt;" Guid="79f915dc-b335-43cd-bfda-d3a82583aca7" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='chrome.exe' title='ACME System 1 - {0}' /&gt;&quot;, ACMETitle)]" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67ef4c4f491c9a3e6af14b849e5a0fda.png" xmlns="">0aX5PeWLO_02F6MNdeBtGBw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="ACMETitle" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
