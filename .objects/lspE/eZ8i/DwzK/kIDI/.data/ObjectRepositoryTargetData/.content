@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="xXt-fA3_AEed1b-yOMl8Zw" Reference="SublX5Ph0Eu6z5eLK9nhZw/kIDIPSGZSUajcVWoszCDNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="91a9a941-d281-42bd-ab0c-868d37d8f59d" CvTextArea="342, 535, 371, 16" CvTextArgument="These credentials do not match our records." CvType="Text" DesignTimeRectangle="344, 532, 370, 20" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='STRONG' /&gt;" Guid="11ad60c1-a80c-4990-93e8-b58c384e3319" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
-      <imageRef attrName="InformativeScreenshot" originalValue="a42bf40d0545cfcb7a987ce3eddef0ae.png" xmlns="">09NBeQTbZu0mB9ESVZkRHjg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
